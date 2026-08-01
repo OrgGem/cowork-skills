@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Microsoft Teams"
+  short_description: "Manage Teams apps, summarize chats, and reply safely"
+  default_prompt: "Use $manage-msteam to authenticate me, manage Microsoft Teams, summarize a group chat or channel, or reply to the correct message thread."

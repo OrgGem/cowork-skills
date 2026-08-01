@@ -1,0 +1,4 @@
+interface:
+  display_name: "Manage Office Documents"
+  short_description: "Create and edit Office files using only OfficeCLI"
+  default_prompt: "Use $manage-office to create, inspect, edit, validate, and visually verify my Word, Excel, or PowerPoint file using only OfficeCLI."
